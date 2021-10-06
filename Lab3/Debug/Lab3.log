@@ -1,0 +1,4 @@
+﻿  Lab3.cpp
+C:\Users\Dell\Desktop\SP\Lab3\Lab3.cpp(132,17): warning C4101: ps: неиспользованная локальная переменная
+C:\Users\Dell\Desktop\SP\Lab3\Lab3.cpp(229,19): warning C4101: arr: неиспользованная локальная переменная
+  Lab3.vcxproj -> C:\Users\Dell\Desktop\SP\Lab3\Debug\Lab3.exe

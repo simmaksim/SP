@@ -1,0 +1,4 @@
+﻿  Lab4.cpp
+C:\Users\Dell\Desktop\SP\Lab4\Lab4.cpp(153,9): warning C4101: hdc: неиспользованная локальная переменная
+C:\Users\Dell\Desktop\SP\Lab4\Lab4.cpp(220,13): warning C4101: hbm: неиспользованная локальная переменная
+  Lab4.vcxproj -> C:\Users\Dell\Desktop\SP\Lab4\Debug\Lab4.exe
